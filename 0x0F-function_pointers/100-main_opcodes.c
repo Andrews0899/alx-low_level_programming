@@ -3,7 +3,7 @@
 
 
 	/**
-	 * main - prints its own opcodes
+	 * main - prints the opcodes of itself
 	 * @argc: number of arguments
 	 * @argv: array of arguments
 	 *
@@ -46,4 +46,3 @@
 		}
 		return (0);
 	}
-
