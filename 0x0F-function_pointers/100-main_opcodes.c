@@ -2,14 +2,15 @@
 #include <stdlib.h>
 
 
-	/**
-	 * main - prints the opcodes of itself
-	 * @argc: number of arguments
-	 * @argv: array of arguments
-	 *
-	 * Return: Always 0 (Success)
-	 */
-	int main(int argc, char *argv[])
+/**
+* main - prints the opcodes of itself
+* @argc: number of arguments
+* @argv: array of arguments
+*
+* Return: Always 0 (Success)
+*/
+
+int main(int argc, char *argv[])
 	{
 		int bytes, i;
 		char *arr;
